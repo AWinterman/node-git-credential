@@ -2,6 +2,6 @@
 var get_credential = require("./index")
 
 get_credential(function(err, data){
-  if (err) console.log("uh oh! \n" + err)
-  console.log(data)
+  if (err) return console.log("uh oh! \n" + err)
+  if (data.username && data.password) console.log("success")
 })
