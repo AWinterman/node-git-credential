@@ -1,0 +1,21 @@
+{
+  "name": "git-credential",
+  "version": "1.0.0",
+  "description": "A simple utility to get user's git credentials from node",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": "",
+  "keywords": [
+    "git",
+    "credential",
+    "password",
+    "authorization",
+    "username"
+  ],
+  "author": "Andrew Winterman",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "6e73592c778d28c8b49b7d7bab071e8a994db845"
+}
