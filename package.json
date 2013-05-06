@@ -1,6 +1,6 @@
 {
   "name": "git-credential",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple utility to get user's git credentials from node",
   "main": "index.js",
   "scripts": {
